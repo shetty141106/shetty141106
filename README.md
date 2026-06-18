@@ -1,202 +1,175 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4facfe,100:00f2fe&text=Mokshith%20Shetty&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+```md
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Mokshith%20Shetty&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">Hi 👋, I'm Mokshith Shetty</h1>
 
-<h3 align="center">☕ Java Developer | 🌱 Spring Boot Learner | 💻 Computer Engineering Student</h3>
+<h3 align="center">
+☕ Java Backend Developer • Spring Boot Enthusiast • Computer Engineering Student
+</h3>
 
 <p align="center">
-🚀 Building Real-World Software • ☕ Java Developer • 📈 Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Developer;Hibernate+%7C+JPA+%7C+MySQL;Building+Real-World+Applications;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Learner;Hibernate+and+JPA;Backend+Development;Future+Full+Stack+Developer" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=shetty141106&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/shetty141106?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/shetty141106?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 Computer Engineering Student at Bharati Vidyapeeth College of Engineering (BVCOE)
+🎓 B.E. Computer Engineering Student at Bharati Vidyapeeth College of Engineering, Navi Mumbai
 
-☕ Currently learning Java Backend Development
+💻 Passionate about Backend Development and Software Engineering
 
-🌱 Learning:
-- Core Java
-- JDBC
-- Hibernate
-- Spring Framework
+🌱 Currently Learning
+
 - Spring Boot
-- Spring Data JPA
-- MySQL
-
-📚 Practicing:
-- Data Structures & Algorithms
-- Object Oriented Programming
-- Database Design
+- Spring Security
+- Hibernate & JPA
 - REST APIs
+- MySQL
+- Data Structures & Algorithms
 
-🎯 Goal:
-- Become a Full Stack Java Developer
-- Build scalable backend systems
-- Crack top product-based companies
+🎯 Current Goal
+
+Build production-ready backend applications and strengthen problem-solving skills.
+
+> "First, solve the problem. Then, write the code."
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,git,github,idea,vscode,html,css" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+```md
+# 🚀 Featured Projects
 
-### 🛒 Shopverse E-Commerce Website
+<table>
+<tr>
+<td width="50%">
 
-Full Stack E-Commerce Application built using Spring Boot.
+## 🛒 Shopverse E-Commerce Platform
 
-#### Tech Stack
+A full-stack e-commerce application built using Spring Boot following industry-standard backend architecture.
 
-- Java
-- Spring Boot
-- Spring Security
-- JWT Authentication
-- MySQL
-- Hibernate / JPA
-- Thymeleaf
-- Bootstrap
+### 🔹 Tech Stack
+Java • Spring Boot • Spring Security • JWT • Hibernate • JPA • MySQL • Thymeleaf • Bootstrap
 
-#### Features
+### 🔹 Features
+✔ User Authentication & Authorization
 
-✅ User Authentication
+✔ Product Management
 
-✅ Product Management
+✔ Shopping Cart System
 
-✅ Shopping Cart
+✔ Order Processing
 
-✅ Order Placement
+✔ JWT-Based Security
 
-✅ Secure APIs using JWT
+✔ Database Integration with JPA
 
-✅ Database Integration using JPA
+🔗 Repository: https://github.com/shetty141106
 
----
+</td>
 
-### 📚 Library Management System
+<td width="50%">
 
-Java-Hibernate based application.
+## 📚 Library Management System
 
-#### Features
+A Java-Hibernate project demonstrating ORM concepts and layered architecture.
 
-✅ CRUD Operations
+### 🔹 Tech Stack
+Java • Hibernate • Maven • MySQL
 
-✅ Hibernate ORM
+### 🔹 Features
+✔ CRUD Operations
 
-✅ MySQL Database
+✔ DAO Pattern
 
-✅ Layered Architecture
+✔ Transaction Management
 
----
+✔ Hibernate ORM
 
-### 🎓 Student Management System
+✔ MySQL Integration
 
-#### Features
+🔗 Repository: https://github.com/shetty141106
 
-✅ Add Student
-
-✅ Update Student
-
-✅ Delete Student
-
-✅ Search Student
-
-✅ JDBC Integration
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 🎓 LearnTrack MVC
+
+A Java MVC application built using Servlets, JSP, JDBC, and MySQL.
+
+### 🔹 Tech Stack
+Java • JSP • Servlets • JDBC • MySQL
+
+### 🔹 Features
+
+✔ MVC Architecture
+
+✔ DAO Layer Implementation
+
+✔ PreparedStatement Usage
+
+✔ Database Connectivity
+
+✔ CRUD Operations
+
+🔗 Repository: https://github.com/shetty141106
+
+---
+
+## 📈 What I'm Building Next
+
+🚀 Advanced Spring Boot Projects
+
+🚀 REST APIs
+
+🚀 Spring Security & JWT
+
+🚀 Full Stack Applications
+
+🚀 Production Ready Backend Systems
+```
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shetty141106&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shetty141106&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=shetty141106&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🎯 Current Focus
+
+🔹 Spring Boot Projects
+
+🔹 Backend Development
+
+🔹 Database Design
+
+🔹 Hibernate & JPA
+
+🔹 DSA in Java
+
+🔹 Open Source Learning
+
+---
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shetty141106&theme=tokyonight"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shetty141106&theme=tokyo-night" width="100%"/>
-
----
-
-## 🏆 Achievements
-
-🏅 Building Full Stack Java Projects
-
-🏅 Learning Spring Boot Ecosystem
-
-🏅 Practicing DSA in Java
-
-🏅 Exploring Software Engineering Concepts
-
-🏅 Consistently Improving GitHub Profile
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/shetty141106">
-GitHub
-</a>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/shetty141106/shetty141106/blob/output/github-contribution-grid-snake.svg)
-
----
-
-⭐ If you like my work, feel free to star my repositories!
+```
