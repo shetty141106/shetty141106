@@ -145,7 +145,7 @@ Java-Hibernate based application.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shetty141106&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shetty141106&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -195,7 +195,7 @@ GitHub
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/shetty141106/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/shetty141106/shetty141106/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
