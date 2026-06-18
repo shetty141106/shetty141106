@@ -94,8 +94,6 @@ Production-ready E-Commerce platform built using Spring Boot, Spring Security, J
 - Hibernate
 - JPA
 - MySQL
-- Thymeleaf
-- Bootstrap
 
 ### Features
 
@@ -188,7 +186,7 @@ JDBC-based management application.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shetty141106&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shetty141106&theme=onedark&no-frame=true"/>
 </p>
 
 ---
