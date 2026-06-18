@@ -1,4 +1,4 @@
-```md
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Mokshith%20Shetty&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">Hi 👋, I'm Mokshith Shetty</h1>
