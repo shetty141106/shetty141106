@@ -109,8 +109,7 @@ Production-ready E-Commerce platform built using Spring Boot, Spring Security, J
 
 ✅ Database Integration using Hibernate & JPA
 
-🔗 Repository: https://github.com/shetty141106
-
+🔗 Repository: https://github.com/shetty141106/Shopverse
 ---
 
 ## 📚 Library Management System
@@ -129,8 +128,7 @@ Java-Hibernate based application following layered architecture.
 
 ✅ Transaction Management
 
-🔗 Repository: https://github.com/shetty141106
-
+🔗 Repository: https://github.com/shetty141106/Library-Management-System
 ---
 
 ## 🎓 Student Management System
