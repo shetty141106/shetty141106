@@ -143,7 +143,7 @@ Java-Hibernate based application.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shetty141106&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
@@ -155,7 +155,7 @@ Java-Hibernate based application.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shetty141106&theme=tokyonight"/>
 
 </p>
 
@@ -163,7 +163,7 @@ Java-Hibernate based application.
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shetty141106&theme=tokyo-night" width="100%"/>
 
 ---
 
@@ -185,7 +185,7 @@ Java-Hibernate based application.
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/shetty141106">
 GitHub
 </a>
 
@@ -195,7 +195,7 @@ GitHub
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YOUR_USERNAME/shetty141106/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
