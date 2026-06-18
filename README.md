@@ -159,14 +159,6 @@ Java-Hibernate based application following layered architecture.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shetty141106&theme=onedark&no-frame=true"/>
-</p>
-
----
-
 # 🎯 Current Focus
 
 🏅 Spring Boot & Spring Security
