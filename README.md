@@ -1,20 +1,20 @@
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4facfe,100:00f2fe&text=Mokshith%20Shetty&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+```md
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Mokshith%20Shetty&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">Hi 👋, I'm Mokshith Shetty</h1>
 
-<h3 align="center">☕ Java Backend Developer | Spring Boot Enthusiast | Computer Engineering Student</h3>
+<h3 align="center">
+☕ Java Backend Developer • Spring Boot Developer • Computer Engineering Student
+</h3>
 
 <p align="center">
-🚀 Building Real-World Software • ☕ Java Developer • 📈 Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Developer;Hibernate+%7C+JPA+%7C+MySQL;Building+Real-World+Applications;Building+Production-Ready+Applications" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Hibernate+%7C+JPA+%7C+MySQL;Building+Real+World+Projects;Future+Software+Engineer" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shetty141106&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=shetty141106&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/shetty141106?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/shetty141106?style=for-the-badge" />
 </p>
 
 ---
@@ -47,6 +47,8 @@
 🎯 Goal
 
 Become a skilled Java Backend Engineer and build scalable production-ready applications.
+
+> "First, solve the problem. Then, write the code."
 
 ---
 
@@ -82,7 +84,7 @@ Become a skilled Java Backend Engineer and build scalable production-ready appli
 
 ## 🛒 Shopverse E-Commerce Platform
 
-Full Stack E-Commerce Application built using Spring Boot.
+Production-ready E-Commerce platform built using Spring Boot, Spring Security, JWT Authentication, Hibernate, and MySQL.
 
 ### Tech Stack
 
@@ -98,17 +100,19 @@ Full Stack E-Commerce Application built using Spring Boot.
 
 ### Features
 
-✅ User Authentication
+✅ User Authentication & Authorization
 
 ✅ Product Management
 
-✅ Shopping Cart
+✅ Shopping Cart System
 
 ✅ Order Placement
 
 ✅ Secure JWT Authentication
 
 ✅ Database Integration using Hibernate & JPA
+
+🔗 Repository: https://github.com/shetty141106
 
 ---
 
@@ -127,6 +131,8 @@ Java-Hibernate based application following layered architecture.
 ✅ DAO Architecture
 
 ✅ Transaction Management
+
+🔗 Repository: https://github.com/shetty141106
 
 ---
 
@@ -147,6 +153,8 @@ JDBC-based management application.
 ✅ PreparedStatement Integration
 
 ✅ MySQL Connectivity
+
+🔗 Repository: https://github.com/shetty141106
 
 ---
 
@@ -178,17 +186,25 @@ JDBC-based management application.
 
 ---
 
-# 🏆 Current Focus
+# 🏆 GitHub Trophies
 
-🏅 Building Production Ready Spring Boot Projects
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shetty141106&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
-🏅 Improving DSA Skills in Java
+---
 
-🏅 Learning Software Architecture
+# 🎯 Current Focus
 
-🏅 Exploring Microservices
+🏅 Spring Boot & Spring Security
 
-🏅 Strengthening Backend Development Skills
+🏅 Hibernate & JPA
+
+🏅 REST API Development
+
+🏅 Data Structures & Algorithms
+
+🏅 Building Production-Ready Backend Systems
 
 ---
 
@@ -213,4 +229,6 @@ JDBC-based management application.
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
 ```
