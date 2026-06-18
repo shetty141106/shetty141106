@@ -131,28 +131,6 @@ Java-Hibernate based application following layered architecture.
 🔗 Repository: https://github.com/shetty141106/Library-Management-System
 ---
 
-## 🎓 Student Management System
-
-JDBC-based management application.
-
-### Features
-
-✅ Add Student
-
-✅ Update Student
-
-✅ Delete Student
-
-✅ Search Student
-
-✅ PreparedStatement Integration
-
-✅ MySQL Connectivity
-
-🔗 Repository: https://github.com/shetty141106
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
