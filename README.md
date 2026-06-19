@@ -152,12 +152,11 @@ A layered Java + Hibernate application demonstrating clean DAO architecture and 
 ---
 
 ## 🌐 Connect With Me
-
 <p align="left">
   <a href="https://github.com/shetty141106" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/mokshith-shetty-03724b328" target="_blank">
+  <a href="https://www.linkedin.com/in/mokshith-shetty-03724b328" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mokshithshetty14@gmail.com" target="_blank">
@@ -167,6 +166,8 @@ A layered Java + Hibernate application demonstrating clean DAO architecture and 
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
+
+---
 
 ---
 
